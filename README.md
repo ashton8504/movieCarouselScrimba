@@ -1,4 +1,3 @@
-# co117403eb409360ad2ae6435
 
 Quick start:
 
